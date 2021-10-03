@@ -2,7 +2,7 @@
 
 ## Welcome! 👋
 
-This is a cocktail database web app made with React.
+This is a cocktail database web app made with React. You can search your favourite cocktail with the app!
 
 ## Build with ⚙️
 
