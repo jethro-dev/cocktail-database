@@ -14,4 +14,4 @@ This project is built with HTML, CSS and ReactJS.
 
 ## Link 🔗
 
-[Click Me!](https://itech-shopping-cart.netlify.app/)
+[Click Me!](https://db-cocktail.netlify.app/)
